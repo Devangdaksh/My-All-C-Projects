@@ -61,6 +61,12 @@ Created by **Devang**
 ## 📜 License
 🆓 Free to use, modify, and share.
 ```
+## 🙋‍♂️ Credits
 
+Created by **Devang**  
+📧 [Email](mailto:devangkumarprajapati1908@gmail.com)  
+📸 [Instagram](https://www.instagram.com/dev_daksh__/)  
+💼 [LinkedIn](https://www.linkedin.com/in/devang-kumar-prajapati-1908/)  
+🐙 [GitHub](https://github.com/Devangdaksh)
 
 ***
