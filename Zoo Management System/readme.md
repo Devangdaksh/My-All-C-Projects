@@ -50,12 +50,6 @@ Data is stored in text files so your records are saved even after exiting.
 ## 📂 File Structure
 
 ```
-📁 Zoo-Management/
-├── 📄 Zoo-management.c    # Main source code
-├── 📄 animals.txt         # Stores animal records
-├── 📄 staff.txt           # Stores staff records
-└── 📄 README.md           # Project documentation
-```
 ## 🧠 Example Run
 ```
 ==== Zoo Management System ====
