@@ -63,9 +63,14 @@ When you run the program, you’ll see a menu like:
 ---
 
 
-## 👨‍💻 Author
-- **Devang** (Original)
-- **Assistant** (Documentation & Fixes)
+## 👨‍💻 Author 
+## 🙋‍♂️ Credits
+
+Created by **Devang**  
+📧 [Email](mailto:devangkumarprajapati1908@gmail.com)  
+📸 [Instagram](https://www.instagram.com/dev_daksh__/)  
+💼 [LinkedIn](https://www.linkedin.com/in/devang-kumar-prajapati-1908/)  
+🐙 [GitHub](https://github.com/Devangdaksh)
 
 📅 *Last Updated: 28 July 2025*
 
