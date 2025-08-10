@@ -2,8 +2,8 @@
 ![C Language](https://img.shields.io/badge/Language-C-blue)  
 
 This repository contains **two C programs**:
-1. **📟 Integer Calculator (`Calculater.c`)** – Works with integers.
-2. **📊 Floating-Point Calculator (`In-float-calculater.c`)** – Works with decimal values.
+1. **📟 Integer Calculator (`Calculator.c`)** – Works with integers.
+2. **📊 Floating-Point Calculator (`In-float-calculator.c`)** – Works with decimal values.
 
 ---
 
@@ -11,8 +11,8 @@ This repository contains **two C programs**:
 
 | File Name | Description |
 |-----------|-------------|
-| `Calculater.c` | ➕➖✖️➗ Integer calculator with `int` operations |
-| `In-float-calculater.c` | 💯 Supports decimal numbers with `float` operations |
+| `Calculator.c` | ➕➖✖️➗ Integer calculator with `int` operations |
+| `In-float-calculator.c` | 💯 Supports decimal numbers with `float` operations |
 
 ---
 
@@ -41,19 +41,6 @@ This repository contains **two C programs**:
    Enter second number: 3
    Result: 5 + 3 = 8
 ```
-
----
-
-## 📌 Notes
-- ⚠️ Division by 0 is **not allowed**.
-- 🔢 `Calculater.c` only works with **integers**.
-- 💯 `In-float-calculater.c` supports **decimal values**.
-
----
-
-## 📜 License
-🆓 Free to use, modify, and share.
-```
 ## 🙋‍♂️ Credits
 
 Created by **Devang**  
@@ -61,6 +48,19 @@ Created by **Devang**
 📸 [Instagram](https://www.instagram.com/dev_daksh__/)  
 💼 [LinkedIn](https://www.linkedin.com/in/devang-kumar-prajapati-1908/)  
 🐙 [GitHub](https://github.com/Devangdaksh)
+
+---
+
+## 📌 Notes
+- ⚠️ Division by 0 is **not allowed**.
+- 🔢 `Calculator.c` only works with **integers**.
+- 💯 `In-float-calculator.c` supports **decimal values**.
+
+---
+
+## 📜 License
+🆓 Free to use, modify, and share.
+```
 
 
 ***
