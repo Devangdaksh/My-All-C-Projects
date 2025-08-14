@@ -1,5 +1,5 @@
 # 🦁 Zoo Management System 🐯
-
+![C Language](https://img.shields.io/badge/Language-C-blue)  
 A simple terminal-based **Zoo Management System** written in C.  
 It lets you manage **animals** 🐼 and **staff** 👩‍🌾 in your zoo, including adding, viewing, and deleting records.  
 Data is stored in text files so your records are saved even after exiting.
