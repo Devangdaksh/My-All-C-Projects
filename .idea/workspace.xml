@@ -15,7 +15,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5beb30be-053f-436e-82e7-d1960f99401f" name="Changes" comment="" />
+    <list default="true" id="5beb30be-053f-436e-82e7-d1960f99401f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Calculator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Calculator/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,7 @@
       <updated>1754837872477</updated>
       <workItem from="1754837875945" duration="236000" />
       <workItem from="1755063416738" duration="4398000" />
-      <workItem from="1755069945420" duration="3235000" />
+      <workItem from="1755069945420" duration="3739000" />
     </task>
     <servers />
   </component>
