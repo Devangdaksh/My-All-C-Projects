@@ -1,7 +1,6 @@
 //
 // Factorial Calculator in C
 // Calculates n! for a given non-negative integer
-// Author: Assistant
 //
 
 #include <stdio.h>

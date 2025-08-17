@@ -2,8 +2,6 @@
 // Simple Library Management System in C
 // Manages books: add, view, delete records (persistent file storage)
 //
-// Created by Assistant
-//
 
 #include <stdio.h>
 #include <stdlib.h>
