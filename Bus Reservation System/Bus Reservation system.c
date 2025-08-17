@@ -1,7 +1,5 @@
-//
 // Simple Bus Reservation System in C
 // Features: add buses, book tickets, cancel tickets, view buses/bookings
-//
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -219,7 +217,7 @@ void bookTicket() {
     printf("Enter booking name (Head of Family): ");
     readLine(bookings[bookingCount].passengerName, MAX_LEN);
 
-    // Collect passenger details
+    // Collect passenger details (only display, not stored)
     printf("\nEnter details for all %d passengers:\n", familyCount);
     for (int i = 1; i <= familyCount; i++) {
         char tempName[MAX_LEN];
@@ -231,7 +229,7 @@ void bookTicket() {
         printf("Passenger %d seat number: ", i);
         seatNo = getIntInput();
 
-        // Here we could store seatNo and tempName in a passenger list file if needed
+        // Not saved, just shown
         printf("✔ Recorded: %s (Seat %d)\n", tempName, seatNo);
     }
 
@@ -246,8 +244,7 @@ void bookTicket() {
 
     printf("\nBooking successful for %d passengers. Your Booking ID: %d\n",
            familyCount, bookings[bookingCount - 1].bookingId);
-}1
-
+}
 
 void viewBookings() {
     if (bookingCount == 0) {

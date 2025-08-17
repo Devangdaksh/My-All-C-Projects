@@ -18,8 +18,7 @@
     <list default="true" id="5beb30be-053f-436e-82e7-d1960f99401f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorial Calculator/Factorial Calculator.c" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Calculator/Factorial Calculator.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library Management System/Library Management.c" beforeDir="false" afterPath="$PROJECT_DIR$/Library Management System/Library Management.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bus Reservation System/Bus Reservation system.c" beforeDir="false" afterPath="$PROJECT_DIR$/Bus Reservation System/Bus Reservation system.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,40 +40,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.Airport system.c - MinGW.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Bus Reservation system.c - MinGW.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Factorial Calculator.c - MinGW.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.ba.c - MinGW.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.bank.c - MinGW.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/My All C Projects&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Airport system.c - MinGW.executor": "Run",
+    "C/C++ File.Bus Reservation system.c - MinGW.executor": "Run",
+    "C/C++ File.Bus Reservation system.c.executor": "Run",
+    "C/C++ File.Factorial Calculator.c - MinGW.executor": "Run",
+    "C/C++ File.ba.c - MinGW.executor": "Run",
+    "C/C++ File.bank system.c - MinGW.executor": "Run",
+    "C/C++ File.bank.c - MinGW.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/My All C Projects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Airport system.c - MinGW" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My All C Projects" TARGET_NAME="Airport system.c - MinGW" CONFIG_NAME="Airport system.c - MinGW">
-      <option name="sourceFile" value="D:\My All C Projects\Airport Management System\Airport system.c" />
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.Bus Reservation system.c">
+    <configuration name="Bus Reservation system.c - MinGW" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My All C Projects" TARGET_NAME="Bus Reservation system.c - MinGW" CONFIG_NAME="Bus Reservation system.c - MinGW">
+      <option name="sourceFile" value="D:\My All C Projects\Bus Reservation System\Bus Reservation system.c" />
       <option name="toolchainName" value="MinGW" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Bus Reservation system.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My All C Projects" TARGET_NAME="Bus Reservation system.c" CONFIG_NAME="Bus Reservation system.c">
+      <option name="sourceFile" value="D:\My All C Projects\Zoo Management System\Zoo management.c" />
+      <option name="toolchainName" value="MinGW" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.Bus Reservation system.c - MinGW" />
+      <item itemvalue="C/C++ File.Bus Reservation system.c" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Bus Reservation system.c" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,6 +107,7 @@
       <workItem from="1755165904132" duration="12000" />
       <workItem from="1755231926902" duration="642000" />
       <workItem from="1755407884133" duration="481000" />
+      <workItem from="1755408447034" duration="512000" />
     </task>
     <servers />
   </component>
